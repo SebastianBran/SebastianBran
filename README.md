@@ -6,7 +6,7 @@
 
 ## About Me 🧐
 
-Software Engineering at the Peruvian University of Applied Sciences. I am a person who likes challenges, learn new technologies, and constantly grow as a professional.
+Software Engineer at the Peruvian University of Applied Sciences. I am a person who likes challenges, learn new technologies, and constantly grow as a professional.
 
 **Contact me <a>sebastianbranzapata@gmail.com</a>**
 
